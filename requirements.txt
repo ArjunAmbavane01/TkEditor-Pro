@@ -1,0 +1,5 @@
+ttkbootstrap
+Pillow
+autopep8
+jsbeautifier
+clang-format
